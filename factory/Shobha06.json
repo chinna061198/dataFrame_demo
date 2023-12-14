@@ -1,0 +1,9 @@
+{
+	"name": "Shobha06",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6e890708-3181-4e98-987e-59f7149b565b",
+		"tenantId": "cc5a534d-f983-4b90-bf20-0b06d6d698a0"
+	}
+}
